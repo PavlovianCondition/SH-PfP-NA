@@ -16,9 +16,9 @@ Lightweight, streaming-based userscript designed to resolve the ongoing North Am
 This hotfix actively intercepts broken media assets and fixes them dynamically across the majority of the site architecture:
 
 
-*Note:
-A: I disclaim any errors arising from using this script when signed out of SpaceHey, or similarly in incognito mode. Testing is limited to early in development, and sparse.
-B: Forum topics are currently excluded from this build and will be addressed in a subsequent release. Profiles using aggressive custom CSS layout overrides may lead to a rerouting failure, but the fix will still function everywhere else across the platform.*
+**Note:
+1. I disclaim any errors arising from using this script when signed out of SpaceHey, or similarly in incognito mode. Testing is limited to early in development, and sparse.
+2. Forum topics are currently excluded from this build and will be addressed in a subsequent release. Profiles using aggressive custom CSS layout overrides may lead to a rerouting failure, but the fix will still function everywhere else across the platform.**
 
 ## License & Contributions
 
