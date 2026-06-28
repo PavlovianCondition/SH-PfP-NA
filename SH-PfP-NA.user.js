@@ -10,8 +10,8 @@
 // @grant        GM_xmlhttpRequest
 // @connect      spacehey.com
 // @connect      *.spacehey.com
-// @updateURL    https://github.com/PavlovianCondition/SH-PfP-NA/raw/main/src/SH-PfP-NA.user.js
-// @downloadURL  https://github.com/PavlovianCondition/SH-PfP-NA/raw/main/src/SH-PfP-NA.user.js
+// @updateURL    https://github.com/PavlovianCondition/SH-PfP-NA/raw/refs/heads/main/SH-PfP-NA.user.js
+// @downloadURL  https://github.com/PavlovianCondition/SH-PfP-NA/raw/refs/heads/main/SH-PfP-NA.user.js
 // ==/UserScript==
 // Copyright (c) 2026 Pavlovian Condition. All Rights Reserved.
 // This source code is proprietary. Unauthorized copying, redistribution, or
