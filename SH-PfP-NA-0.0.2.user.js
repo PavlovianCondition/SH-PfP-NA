@@ -260,7 +260,7 @@ const currentPath = window.location.pathname;
         )}
     }
     // v Blog handler
-    if (currentDomain === 'blog.spacehey.com') {
+    if (currentDomain.startsWith('blog.spacehey.com')) {
         let profileavatar = document.querySelector('.profile-pic .pfp-fallback')
         if (profileavatar) {
         let metaSwitch = function() {
