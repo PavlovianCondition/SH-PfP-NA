@@ -7,7 +7,7 @@ Lightweight, streaming-based userscript designed to resolve the ongoing North Am
 2. Disable all other extensions. (Optional, but I am not responsible for any conflicts or errors should you choose to skip this step.)
 3. Ensure your browser has Developer Mode enabled for extensions.
 4. In the Tampermonkey extension settings, ensure Allow User Scripts and Allow access to file URLs are ON.
-5. Download the userscript .js file, or click [HERE]([src/SH-PfP-NA.user.js?raw=1](https://github.com/PavlovianCondition/SH-PfP-NA/raw/refs/heads/main/SH-PfP-NA-0.0.2.user.js)).
+5. Download the userscript .js file, or click [HERE](https://github.com/PavlovianCondition/SH-PfP-NA/raw/refs/heads/main/SH-PfP-NA-0.0.2.user.js)
 6. Install and enable the userscript. If you downloaded the user.js file itself, simply create a new userscript in Tampermonkey and paste the contents of the user.js file, then hit CTRL + S to save.
 
 
