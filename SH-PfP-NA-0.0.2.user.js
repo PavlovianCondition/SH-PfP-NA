@@ -298,7 +298,7 @@ const currentPath = window.location.pathname;
         });
     }
     // v Bulletin handler
-    if (currentPath === '/bulletin') {
+    if (currentPath === '/bulletin' || currentPath === '/bulletincomment') {
         let profileavatar = document.querySelector('.profile-pic .pfp-fallback')
         profileavatar.onerror = function() {
             let imgElement = profileavatar
