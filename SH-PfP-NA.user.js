@@ -12,6 +12,8 @@
 // @connect      *.spacehey.com
 // @exclude      https://spacehey.com/settings
 // @exclude      https://spacehey.com/reset
+// @exclude      https://spacehey.com/export
+// @exclude      https://spacehey.com/deleteaccount
 // @updateURL    https://github.com/PavlovianCondition/SH-PfP-NA/raw/refs/heads/main/SH-PfP-NA.user.js
 // @downloadURL  https://github.com/PavlovianCondition/SH-PfP-NA/raw/refs/heads/main/SH-PfP-NA.user.js
 // ==/UserScript==
