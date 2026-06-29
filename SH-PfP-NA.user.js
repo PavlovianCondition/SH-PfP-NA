@@ -2,6 +2,8 @@
 // @name         SH-PfP-NA
 // @namespace    http://tampermonkey.net/
 // @version      0.0.2
+// @updateURL    https://raw.githubusercontent.com/PavlovianCondition/SH-PfP-NA/main/SH-PfP-NA.user.js
+// @downloadURL  https://raw.githubusercontent.com/PavlovianCondition/SH-PfP-NA/main/SH-PfP-NA.user.js
 // @description  Stopgap fix for NA users affected by the SpaceHey profile-picture CDN routing error
 // @author       Pavlovian Condition
 // @match        https://spacehey.com/*
@@ -14,8 +16,6 @@
 // @exclude      https://spacehey.com/reset
 // @exclude      https://spacehey.com/export
 // @exclude      https://spacehey.com/deleteaccount
-// @updateURL    https://github.com/PavlovianCondition/SH-PfP-NA/raw/refs/heads/main/SH-PfP-NA.user.js
-// @downloadURL  https://github.com/PavlovianCondition/SH-PfP-NA/raw/refs/heads/main/SH-PfP-NA.user.js
 // ==/UserScript==
 // Copyright (c) 2026 Pavlovian Condition. All Rights Reserved.
 // This source code is proprietary. Unauthorized copying, redistribution, or
