@@ -10,6 +10,8 @@
 // @grant        GM_xmlhttpRequest
 // @connect      spacehey.com
 // @connect      *.spacehey.com
+// @exclude      https://spacehey.com/settings
+// @exclude      https://spacehey.com/reset
 // @updateURL    https://github.com/PavlovianCondition/SH-PfP-NA/raw/refs/heads/main/SH-PfP-NA.user.js
 // @downloadURL  https://github.com/PavlovianCondition/SH-PfP-NA/raw/refs/heads/main/SH-PfP-NA.user.js
 // ==/UserScript==
